@@ -1,0 +1,1 @@
+const RANDOM_DOG_IMAGE = '/randomDogImage'
